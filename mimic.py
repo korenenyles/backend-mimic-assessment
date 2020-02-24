@@ -42,7 +42,7 @@ Could work on getting it to put in linebreaks around 70
 columns, so the output looks better.
 
 
-_authored_: Assisted by Chris Wilson, Janell Huyck, Sean Bailey
+_authored_: Koren Nyles, Assisted by Chris Wilson, Janell Huyck, Sean Bailey
 also used google a lot.
 """
 
